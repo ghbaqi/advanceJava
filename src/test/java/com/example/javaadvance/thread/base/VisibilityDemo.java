@@ -1,4 +1,4 @@
-package com.example.javaadvance.thread;
+package com.example.javaadvance.thread.base;
 
 /**
  * 内存可见性

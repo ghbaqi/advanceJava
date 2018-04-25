@@ -1,4 +1,4 @@
-package com.example.javaadvance.thread;
+package com.example.javaadvance.thread.base;
 
 /**
  * 计算机程序的思维逻辑 (65) - 线程的基本概念

@@ -1,4 +1,4 @@
-package com.example.javaadvance.thread;
+package com.example.javaadvance.thread.base;
 
 import java.util.ArrayList;
 import java.util.List;
