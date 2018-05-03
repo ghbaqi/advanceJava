@@ -6,7 +6,10 @@
 	<groupId>com.example</groupId>
 	<artifactId>java-advance</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>jar</packaging>
+    <modules>
+        <module>thread</module>
+    </modules>
+    <packaging>pom</packaging>
 
 	<name>java-advance</name>
 	<description>Demo project for Spring Boot</description>
